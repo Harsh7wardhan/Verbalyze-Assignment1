@@ -1,0 +1,47 @@
+/* Home.css */
+
+.container {
+    text-align: center;
+    padding: 2em;
+  }
+  
+  .heading {
+    font-size: 40px;
+    margin-bottom: 20px;
+  }
+  
+  .userList {
+    margin-top: 20px;
+    padding: 2em;
+  }
+  
+  .userItem {
+    background-color: #f4f4f4;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px 0;
+  }
+  
+  .userId {
+    font-weight: bold;
+  }
+  
+  .userEmail {
+    color: #007bff;
+  }
+  
+  .signout-button {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .signout-button:hover {
+    background-color: #0056b3;
+  }
+  
